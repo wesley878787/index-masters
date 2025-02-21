@@ -131,21 +131,6 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-     header {
-        flex-direction: row;
-        align-items: center;
-        justify-content: space-between;
-        padding: 10px;
-    }
-    
-    .logo {
-        width: 35px;
-    }
-    
-    h1 {
-        font-size: 1rem;
-    }
-    
     nav ul {
         gap: 5px;
         overflow-x: auto;
