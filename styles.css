@@ -195,11 +195,14 @@ footer {
     }
     
     .logo {
-        width: 80px;
+        width: 100%;
+    }
+    .logo .socials{
+        width:100%;
     }
 
     .logo-container img{
-        width:140px;
+        width:140%;
     }
         
    h1{
