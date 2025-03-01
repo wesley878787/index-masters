@@ -144,7 +144,7 @@ footer {
     margin-right: 10px;
 }
 
-            .socials {
+           .logo .socials {
                 display: flex;
                 justify-content: center;
                 gap: 15px;
@@ -202,7 +202,7 @@ footer {
     }
 
     header .logo-container img{
-        width:140%;
+        width:50%;
     }
         
    h1{
