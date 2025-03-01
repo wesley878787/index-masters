@@ -153,7 +153,7 @@ footer {
                 padding-top: 10px;
                 width:100%;
             }
-            .socials a {
+            .logo .socials a {
                 color: white;
                 text-decoration: none;
                 font-size: 20px;
@@ -202,7 +202,7 @@ footer {
     }
 
     header .logo-container img{
-        width:50%;
+        width:30%;
     }
         
    h1{
