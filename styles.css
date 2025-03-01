@@ -231,5 +231,21 @@ footer {
         font-size: 0.75rem;
         padding: 5px 8px;
     }
+
+ nav.top-nav ul {
+                    flex-direction: column;
+                    text-align: center;
+                }
+                .right-menu .about-us ul {
+                    text-align: center;
+                }
+                .right-menu .about-us {
+                    flex-direction: column;
+                }
+                img {
+                    max-width: 100%;
+                    height: auto;
+                }
+    
 }
 
