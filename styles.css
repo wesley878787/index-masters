@@ -143,6 +143,8 @@ header .logo-container {
     width: 100%;
     height: auto;
      background: #151515;
+    margin-top: 40px; 
+                padding-top: 40px;
 }
 
            .logo .socials {
@@ -150,8 +152,6 @@ header .logo-container {
                 justify-content: center;
                 gap: 15px;
                 border-top: 1px solid ;
-                margin-top: 40px; 
-                padding-top: 40px;
                 width:100%;
             }
             .logo .socials a {
@@ -197,9 +197,11 @@ header .logo-container {
     
     .logo {
         width: 100%;
+        margin-top:40px;
     }
     .logo .socials{
         width:100%;
+        margin-top:40px;
     }
 
     header .logo-container img{
