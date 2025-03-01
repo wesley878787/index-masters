@@ -22,7 +22,9 @@ header {
     width: 100%;
     max-width: 100%;
 }
-
+header h1{
+    font-size:20px;
+}
 .logo-container {
     display: flex;
     align-items: center;
@@ -142,6 +144,12 @@ footer {
 }
 
  /* Social Media Links */
+.logo {
+                width: 60px;
+                height: 60px;
+                background: #151515;
+                margin: 10px 0;
+            }
             .socials {
                 display: flex;
                 justify-content: center;
@@ -152,7 +160,7 @@ footer {
                 width:100%;
             }
             .socials a {
-                color: black;
+                color: white;
                 text-decoration: none;
                 font-size: 20px;
             }
