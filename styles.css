@@ -71,11 +71,11 @@ nav a:hover {
 section {
     padding: 100px 50px;
     background: #f5f5f5; /* Light gray */
-    margin: auto;
     width: 100%;
     border-radius: 15px;
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
     border-left: 5px solid #1e90ff; /* Subtle accent color */
+    margin-top:15%;
 }
 
 section:hover {
@@ -154,6 +154,7 @@ header .logo-container {
                 color: white;
                 text-decoration: none;
                 font-size: 20px;
+                margin-bottom:10px;
             }
 
 /* Right Menu */
@@ -162,7 +163,7 @@ header .logo-container {
                 display: flex;
                 flex-direction: row;
                 align-items: center;
-                border-top: 2px solid ;
+                border-top: 2px solid #fff ;
                 height: 47vh;
                 margin-top: 15%;
                 margin-bottom:15%;
@@ -255,6 +256,7 @@ header .logo-container {
 
     section{
         width:100%;
+        
     }
 }
 
