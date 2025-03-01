@@ -38,11 +38,6 @@ header {
     margin-right: 10px;
 }
 
-h1 {
-    font-size: 20px;
-    margin: 0;
-    padding:9%;
-} 
 
 nav {
     width: 100%;
@@ -205,14 +200,7 @@ footer {
         width:140px;
     }
         
-    
-    h1 {
-        font-size: 20px;
-        padding: 12%;
-         margin-top: 15%;
-        margin-bottom: 20px;
-    }
-    
+   
     nav {
         padding: 8px 0;
         flex-direction: column;
